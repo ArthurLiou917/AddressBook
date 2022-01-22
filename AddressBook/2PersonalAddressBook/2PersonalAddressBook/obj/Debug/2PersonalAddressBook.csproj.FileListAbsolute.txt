@@ -1,0 +1,30 @@
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\bin\Debug\2PersonalAddressBook.exe.config
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\bin\Debug\2PersonalAddressBook.exe
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\bin\Debug\2PersonalAddressBook.pdb
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.csprojAssemblyReference.cache
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\_2PersonalAddressBook.Form1.resources
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\_2PersonalAddressBook.Properties.Resources.resources
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.csproj.GenerateResource.cache
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.csproj.CoreCompileInputs.cache
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.exe
+D:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.pdb
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\bin\Debug\2PersonalAddressBook.exe.config
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\bin\Debug\2PersonalAddressBook.exe
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\bin\Debug\2PersonalAddressBook.pdb
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.csprojAssemblyReference.cache
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\_2PersonalAddressBook.Form1.resources
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\_2PersonalAddressBook.Properties.Resources.resources
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.csproj.GenerateResource.cache
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.csproj.CoreCompileInputs.cache
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.exe
+E:\Coding\Grade 12 Lessons\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.pdb
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\bin\Debug\2PersonalAddressBook.exe.config
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\bin\Debug\2PersonalAddressBook.exe
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\bin\Debug\2PersonalAddressBook.pdb
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\_2PersonalAddressBook.Form1.resources
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\_2PersonalAddressBook.Properties.Resources.resources
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.exe
+C:\Users\arthu\source\repos\c#\AddressBook\2PersonalAddressBook\2PersonalAddressBook\obj\Debug\2PersonalAddressBook.pdb
